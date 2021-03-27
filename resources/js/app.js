@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Ap from './Ap'
+import './bootstrap'
 
 const App = () => {
     return(
-        <Ap/>
+        <div>none</div>
     )
 }
 
